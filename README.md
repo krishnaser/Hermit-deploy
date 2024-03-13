@@ -1,1 +1,1 @@
-# Hermit-depoly
+# Hermit-deploy
